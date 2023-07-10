@@ -22,19 +22,6 @@ The project utilizes several Python libraries for different tasks, including:
 
 Make sure to have the required libraries installed before running the notebook.
 
-Repository Structure
-The repository is structured as follows:
-
-bash
-Copy code
-├── data/                      # Directory to store the dataset
-│   ├── tripadvisor_reviews.csv
-│   └── ...
-├── notebook/                  # Directory containing the Jupyter Notebook
-│   └── hotel_reviews.ipynb
-├── README.md                  # Project README file
-└── .gitignore                 # Git ignore file
-Usage
 To run the notebook and reproduce the project's results, follow these steps:
 
 Download the TripAdvisor Hotel Reviews dataset from Kaggle and place the tripadvisor_reviews.csv file in the data/ directory.
