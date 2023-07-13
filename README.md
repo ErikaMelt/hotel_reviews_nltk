@@ -18,7 +18,7 @@ The project utilizes several Python libraries for different tasks, including:
 - NLTK (Natural Language Toolkit): Used for text preprocessing, POS tagging, lemmatization, and accessing lexical resources.
 - WordCloud: Used to visualize text data, particularly for generating word clouds.
 - Scikit-learn: Used for TF-IDF vectorization, converting raw text data into numerical features.
-- Gensim: Used for training Doc2Vec models to represent documents as vectors.
+- Keras
 
 Make sure to have the required libraries installed before running the notebook.
 
