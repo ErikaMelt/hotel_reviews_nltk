@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
+
+
 ### Hotel Reviews Classification
 This project focuses on classifying hotel reviews from TripAdvisor using machine learning techniques. The dataset used in this project is sourced from Kaggle, specifically the TripAdvisor Hotel Reviews dataset.
 
@@ -13,12 +16,14 @@ The main goal of this project is to preprocess the text data, perform explorator
 - Model Improvement: To enhance the performance of the model, additional techniques such as TF-IDF vectorization and Doc2Vec (document embedding) are applied to the text data.
 
 ### Libraries Used
-The project utilizes several Python libraries for different tasks, including:
+Libraries used in this project: 
 
 - NLTK (Natural Language Toolkit): Used for text preprocessing, POS tagging, lemmatization, and accessing lexical resources.
 - WordCloud: Used to visualize text data, particularly for generating word clouds.
-- Scikit-learn: Used for TF-IDF vectorization, converting raw text data into numerical features.
-- Keras
+- Scikit-learn: <i class="fab fa-sklearn"></i>: Used for TF-IDF vectorization, converting raw text data into numerical features.
+- Keras: <i class="fab fa-keras"></i>
+
+update site
 
 Make sure to have the required libraries installed before running the notebook.
 
